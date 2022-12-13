@@ -1,7 +1,7 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
-namespace ApiMokymai.Controllers
+namespace ApiMokymai.Controllers.P001
 {
     [Route("api/[controller]")]
     [ApiController]
